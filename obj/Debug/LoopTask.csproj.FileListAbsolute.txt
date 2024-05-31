@@ -1,0 +1,7 @@
+C:\Users\User\Masaüstü\LoopTask\bin\Debug\LoopTask.exe.config
+C:\Users\User\Masaüstü\LoopTask\bin\Debug\LoopTask.exe
+C:\Users\User\Masaüstü\LoopTask\bin\Debug\LoopTask.pdb
+C:\Users\User\Masaüstü\LoopTask\obj\Debug\LoopTask.csproj.AssemblyReference.cache
+C:\Users\User\Masaüstü\LoopTask\obj\Debug\LoopTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Masaüstü\LoopTask\obj\Debug\LoopTask.exe
+C:\Users\User\Masaüstü\LoopTask\obj\Debug\LoopTask.pdb
